@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 1201.42 1722.28">
+<metadata>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="New" value="1"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+</metadata>
+<defs/>
+<g id="Calque 1" vectornator:layerName="Calque 1">
+<path d="M615.006+16.2931L615.006+16.2931C666.12+16.2931+707.557+57.7296+707.557+108.844L707.557+1613.43C707.557+1664.55+666.12+1705.99+615.006+1705.99L615.006+1705.99C563.891+1705.99+522.455+1664.55+522.455+1613.43L522.455+108.844C522.455+57.7296+563.891+16.2931+615.006+16.2931Z" opacity="1" fill="#00171f"/>
+<path d="M1169.14+1059.3L1169.14+1059.3C1205.29+1095.44+1205.29+1154.04+1169.14+1190.18L680.449+1678.88C644.306+1715.02+585.706+1715.02+549.562+1678.88L549.562+1678.88C513.419+1642.73+513.419+1584.13+549.562+1547.99L1038.26+1059.3C1074.4+1023.15+1133+1023.15+1169.14+1059.3Z" opacity="1" fill="#00171f"/>
+<path d="M60.867+1059.3L60.867+1059.3C97.0104+1023.15+155.61+1023.15+191.754+1059.3L680.449+1547.99C716.593+1584.13+716.593+1642.73+680.449+1678.88L680.449+1678.88C644.306+1715.02+585.706+1715.02+549.562+1678.88L60.8669+1190.18C24.7235+1154.04+24.7235+1095.44+60.867+1059.3Z" opacity="1" fill="#00171f"/>
+</g>
+</svg>

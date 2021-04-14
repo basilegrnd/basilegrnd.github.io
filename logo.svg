@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 51.23 70">
+<metadata>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="New" value="1"/>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+</metadata>
+<defs/>
+<g id="Calque 1" vectornator:layerName="Calque 1">
+<path d="M35.6993+42.3303C24.4714+41.6852+13.2065+42.35+1.96013+42.3303C-0.463887+42.3261-0.71166+37.519+1.78162+37.5105C13.3453+37.471+24.9091+37.4509+36.4728+37.4509C45.9793+37.4509+51.23+47.0255+51.23+55.3619C51.23+62.587+43.6747+69.9165+36.5323+69.9405C24.9488+69.9794+13.3652+70+1.78162+70C1.26923+70+0.606021+69.3672+0.353508+68.9884C-0.421139+67.8264+0.0930607+65.2457+1.84113+65.2396C13.1073+65.2002+24.3736+65.2192+35.6398+65.1801C36.5502+65.177+38.0993+64.954+38.9125+64.4661C41.6638+62.8153+44.5384+61.1557+45.6366+57.861C48.2246+50.097+43.3312+42.7689+35.6993+42.3303Z" opacity="1" fill="#00171f"/>
+<path d="M32.6335+1.56963C33.7699+1.56963+35.6919+3.25941+36.4418+4.00932C40.5724+8.13994+43.0174+13.3797+41.7377+19.7781C38.6853+35.0401+22.6206+32.5716+10.9143+32.5716C10.7889+32.5716+10.6738+32.4991+10.5573+32.4526C8.59123+31.6661+8.65047+27.77+11.0928+27.7517C19.805+27.6864+34.2396+30.5508+36.8584+18.7665C37.1832+17.3045+37.3043+15.7153+36.9774+14.2441C34.3254+2.31052+20.6109+4.93859+11.0333+4.90189C11.0333+4.84239+11.0333+4.84239+11.0333+4.78288C8.58826+4.78288+8.48848+0.040389+10.9738+0.0225089C16.4084-0.0165891+21.8434+0.0031682+27.2781+0.0225089C27.7036+0.0240231+32.6335+0.949984+32.6335+1.56963Z" opacity="1" fill="#00171f"/>
+</g>
+</svg>
